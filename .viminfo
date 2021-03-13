@@ -11,9 +11,9 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
 :q!
 :q
-:wq
 :wp
 :10
 
@@ -33,11 +33,62 @@ $
 	e
 
 # File marks:
-'0  10  5  /root/.vimrc
-'1  4  10  ~/NetrwTreeListing 1
-'2  6  0  ~/helloworld.c
+'0  1  0  ~/p.py
+'1  5  22  ~/p.py
+'2  10  5  /root/.vimrc
+'3  4  10  ~/NetrwTreeListing 1
+'4  6  0  ~/helloworld.c
 
 # Jumplist (newest first):
+-'  1  0  ~/p.py
+-'  5  22  ~/p.py
+-'  10  5  /root/.vimrc
+-'  1  0  /root/.vimrc
+-'  19  0  /root/.vimrc
+-'  4  10  ~/NetrwTreeListing 1
+-'  1  0  /root/
+-'  1  0  ~/NetrwTreeListing 1
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  4  10  ~/NetrwTreeListing 1
+-'  1  0  /root/
+-'  1  0  ~/NetrwTreeListing 1
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  4  10  ~/NetrwTreeListing 1
+-'  1  0  /root/
+-'  1  0  ~/NetrwTreeListing 1
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  4  10  ~/NetrwTreeListing 1
+-'  1  0  /root/
+-'  1  0  ~/NetrwTreeListing 1
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
+-'  6  0  ~/helloworld.c
+-'  1  0  ~/helloworld.c
 -'  10  5  /root/.vimrc
 -'  1  0  /root/.vimrc
 -'  19  0  /root/.vimrc
@@ -87,6 +138,13 @@ $
 -'  1  0  ~/helloworld.c
 
 # History of marks within files (newest to oldest):
+
+> ~/p.py
+	"	1	0
+	^	4	7
+	.	4	8
+	+	5	22
+	+	4	8
 
 > ~/helloworld.c
 	"	6	0
